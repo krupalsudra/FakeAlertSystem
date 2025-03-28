@@ -1,6 +1,0 @@
-flask
-requests
-numpy
-fastapi
-uvicorn
-firebase-admin
