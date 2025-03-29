@@ -1,0 +1,11 @@
+streamlit  # For the web UI
+requests  # For sending Telegram alerts
+pandas  # If logs are stored in DataFrames (optional)
+sqlite3  # If logs are stored in an SQLite database (optional, built-in)
+re  # Regular expressions for validation (built-in)
+python-dotenv  # For storing sensitive credentials securely (optional)
+json
+os
+logging
+python-telegram-bot
+pillow
