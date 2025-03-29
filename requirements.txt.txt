@@ -1,0 +1,9 @@
+streamlit
+requests
+json
+os
+logging
+re
+datetime
+python-telegram-bot
+pillow
